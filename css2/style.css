@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+
+
+@media only screen and (max-width: 20px) {
+}
+
+@media only screen and (min-width: 600px) {}
+
+@media only screen and (min-width: 768px) {}
+
+@media only screen and (min-width: 992px) {}
+
+@media only screen and (min-width: 1200px) {}
+
+html, body{
+  font-family: "Poppins";
+}
+
+td{
+  vertical-align: middle;
+}
+
+.navbar-brand {
+  font-family: "Secular";
+  font-weight: bolder;
+}
